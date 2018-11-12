@@ -1,0 +1,19 @@
+{
+  "name": "chars-counterattack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EVO Localization Standard Automation Engine",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "figlet": "^1.2.0",
+    "lodash": "=4.17.4",
+    "node-dir": "^0.1.16",
+    "q": "^1.4.1",
+    "readline-sync": "^1.4.6",
+    "stream-to-promise": "^2.2.0"
+  }
+}
